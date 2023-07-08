@@ -12,6 +12,23 @@
 				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/IActionable.uasset",
 				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/Blueprint/CopyShredder.uasset",
 				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/2P/KQMIR4YNVX4APT92NN92KH.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/HL/BMRL56DOY42VRBAMEUSUMR.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/M6/2L6KYPH4JQDNA09EJSCDC9.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/TP/UJRAITSKKPDI1YANOTE8L9.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/Models/PolygonCity/Materials/Mat_PolygonCity_Texture_01_A.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/InputMappings/IMC_Player.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/InputMappings/IA_Interact.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/IInteractable.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/FirstPerson/Input/IMC_Default.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/Blueprint/GlobalScoreManager.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/UI/GameUI.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/UI/GameOver.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/ZJ/11LF6JX5CX53CR2J4W9A3E.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/9Y/LSUQ18AHEWSN86WLCGB5UL.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/0M/NT2EX92MCUR99ZY63QSSF8.uasset",
 				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/2F/0SPQG8P507LI9VUAFG20OA.uasset",
 				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/P8/0GJ9TLQE2YKOIFZ6YHG33H.uasset",
 				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/YQ/KT6JL4FVCNJJ9VFOCSF32J.uasset",
@@ -28,12 +45,7 @@
 				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/C8/Z38FT77DKZLKDXTQ7PZNM4.uasset",
 				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/QL/31H7DJTVWEX04CCMX5U1SN.uasset",
 				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX.uasset",
-				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/NB/NWWEVRQSGT6ARVZ8HQLCM9.uasset",
-				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/2P/KQMIR4YNVX4APT92NN92KH.uasset",
-				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/HL/BMRL56DOY42VRBAMEUSUMR.uasset",
-				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/M6/2L6KYPH4JQDNA09EJSCDC9.uasset",
-				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/TP/UJRAITSKKPDI1YANOTE8L9.uasset",
-				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/Models/PolygonCity/Materials/Mat_PolygonCity_Texture_01_A.uasset"
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/NB/NWWEVRQSGT6ARVZ8HQLCM9.uasset"
 			]
 		}
 	]
