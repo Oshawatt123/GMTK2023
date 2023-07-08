@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/Blueprint/BP_Invoice.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/Blueprint/BP_InvoiceSpawner.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/InvoiceAction.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/IActionable.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/Blueprint/CopyShredder.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/2F/0SPQG8P507LI9VUAFG20OA.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/P8/0GJ9TLQE2YKOIFZ6YHG33H.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/YQ/KT6JL4FVCNJJ9VFOCSF32J.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/91/64ROQWZ22CQVFJMU4XABML.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Y4/KY9ZXT77SAVGWBRTNCFCSC.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/SZ/D1AHM62WL9TXSNPYQDXQMZ.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/3M/4ATOKH0ZGPCVBS85MPKAXK.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/WS/X084A70TPBKFLJDCV2U5PN.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GI/GZM47KS5FPIQH5TLSYC1ME.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/PT/ZXUQMNLL9GZ2UNQ5D0R4A4.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/YY/ZEL6NJUQJU43LAD9X3NXTT.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/C8/Z38FT77DKZLKDXTQ7PZNM4.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/QL/31H7DJTVWEX04CCMX5U1SN.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/NB/NWWEVRQSGT6ARVZ8HQLCM9.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/2P/KQMIR4YNVX4APT92NN92KH.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/HL/BMRL56DOY42VRBAMEUSUMR.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/M6/2L6KYPH4JQDNA09EJSCDC9.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/TP/UJRAITSKKPDI1YANOTE8L9.uasset",
+				"D:/UnrealProjects/GMTK2023/GMTK2023/Content/Models/PolygonCity/Materials/Mat_PolygonCity_Texture_01_A.uasset"
+			]
+		}
+	]
+}
